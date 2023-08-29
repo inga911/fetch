@@ -1,22 +1,18 @@
 [
     {
         "name": "Jonas",
-        "age": 99,
-        "isMarried": true
+        "age": 99
     },
     {
         "name": "Maryte",
-        "age": 88,
-        "isMarried": true
+        "age": 88
     },
     {
         "name": "Petras",
-        "age": 50,
-        "isMarried": false
+        "age": 50
     },
     {
         "name": "Ona",
-        "age": 20,
-        "isMarried": false
+        "age": 20
     }
 ]
